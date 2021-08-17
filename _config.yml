@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "YOSHIKA CRIDER"
+  name             : # "YOSHIKA CRIDER"
   avatar           : "headshot.png"
   bio              : "ycrider [at] berkeley [dot] edu"
   location         : "California, USA"
