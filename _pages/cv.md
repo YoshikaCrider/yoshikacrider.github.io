@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Energy & Resources, UC Berkeley
-* M.S. in Epidemiology, UC Berkeley
-* M.S. in Environmental Engineering, Stanford University
-* B.S. in Environmental Engineering, Stanford University
+* Ph.D Energy & Resources, UC Berkeley
+* M.S. Epidemiology, UC Berkeley
+* M.S. Environmental Engineering, Stanford University
+* B.S. Environmental Engineering, Stanford University
