@@ -82,12 +82,12 @@ analytics:
 author:
   name             : # "Yoshika S. Crider"
   avatar           : "headshot.png"
-  bio              : # "I am an interdisciplinary global health researcher with a PhD from the Energy & Resources Group at UC Berkeley."
+  bio              : "ycrider [at] gmail [dot] com
   location         : "California, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=yD_m398AAAAJ&hl=en"
-  email            : "ycrider@gmail.com"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
