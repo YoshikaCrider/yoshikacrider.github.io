@@ -82,7 +82,7 @@ analytics:
 author:
   name             : # "Yoshika S. Crider"
   avatar           : "headshot_Aug2021.jpeg"
-  bio              : "I am an interdisciplinary global health researcher with a PhD from the Energy & Resources Group at UC Berkeley."
+  bio              : # "I am an interdisciplinary global health researcher with a PhD from the Energy & Resources Group at UC Berkeley."
   location         : "California, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
