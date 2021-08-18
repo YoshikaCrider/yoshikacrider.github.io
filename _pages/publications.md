@@ -5,10 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-If you are unable to access any of my papers, please email me for a personal copy. I respond to requests on ResearchGate, but emailing me directly is much faster. 
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=yD_m398AAAAJ&hl=en). If you are unable to access any of my papers, please email me for a personal copy. I respond to requests on ResearchGate, but emailing me directly is much faster. 
 <!--{% include base_path %}
 
 {% for post in site.publications reversed %}
