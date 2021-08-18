@@ -82,9 +82,7 @@ analytics:
 author:
   name             : # "YOSHIKA CRIDER"
   avatar           : "headshot.png"
-  bio              : >
-                    (she/her/hers)\n
-                      ycrider [at] berkeley [dot] edu
+  bio              : (she/her/hers) /n ycrider [at] berkeley [dot] edu
   location         : "California, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
