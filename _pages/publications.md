@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=yD_m398AAAAJ&hl=en). If you are unable to access any of my papers, please email me for a personal copy. I respond to requests on ResearchGate, but emailing me directly is much faster. 
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=yD_m398AAAAJ&hl=en). If you are unable to access any of my papers, please email me for a copy for personal use. I respond to requests on ResearchGate, but emailing me directly is much faster. 
 
 ## 2021
 Shless, JS, **YS Crider**, HO Pitchik, AS Qazi, A Styczynski, R LeMesurier, D Haik, et al (2021). Physical Integrity of Medical Exam Gloves with Repeated Applications of Disinfecting Agents: Evidence for Extended Use. medRxiv. [preprint link](https://doi.org/10.1101/2021.05.31.21258129)
