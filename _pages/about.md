@@ -1,12 +1,12 @@
 ---
-permalink: /
+permalink: /about/
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+<!-- redirect_from: 
   - /about/
-  - /about.html
+  - /about.html -->
 ---
 
-I am an interdisciplinary global health researcher and a recent UC Berkeley PhD graduate. Starting in September, I will be a Postdoctoral Fellow at the King Center on Global Development at Stanford University. My research interests include developing and evaluating passive chlorination technologies to increase global access to safe water, the impacts of housing infrastructure quality on health and well-being, and the implications of various interventions on gender equity. My research makes use of methods from engineering, epidemiology, and the social sciences. I have a BS and MS in Environmental Engineering from Stanford University and a MS in Epidemiology and PhD in Energy & Resources from UC Berkeley.
+I am an interdisciplinary global health researcher and a recent UC Berkeley PhD graduate. Starting in September, I will be a Postdoctoral Fellow at the King Center on Global Development at Stanford University. My research interests include developing and evaluating passive chlorination technologies to increase global access to safe water, the impacts of housing infrastructure quality on health and well-being, and the implications of various interventions on gender equity. My research makes use of methods from engineering, epidemiology, and the social sciences. I am a first-generation college graduate and Japanese-American. In my free time, I enjoy trying new foods, creative hobbies like ceramics and sewing, and leisurely running through the beautiful East Bay trails.
 
