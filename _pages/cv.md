@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](http://YoshikaCrider.github.io/files/YCriderCV_27JULY2021.pdf).
+You can download my CV [here](http://YoshikaCrider.github.io/files/YCriderCV_19AUG2021.pdf).
 
 Ph.D Energy & Resources, UC Berkeley  
 M.S. Epidemiology, UC Berkeley  
