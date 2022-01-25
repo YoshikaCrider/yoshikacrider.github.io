@@ -8,9 +8,14 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=yD_m398AAAAJ&hl=en). If you are unable to access any of my papers, please email me for a copy for personal use. I respond to requests on ResearchGate, but emailing me directly is much faster. 
 
 ## 2021
-Smith, DW, S Sultana, **YS Crider**, SA Islam, JM Swarthout, FGB Goddard, A Rabbani, SP Luby, AJ Pickering, & J Davis (2021). Effective Demand for In-Line Chlorination Bundled with Rental Housing in Dhaka, Bangladesh. Environmental Science & Technology. [link](https://doi.org/10.1021/acs.est.1c01308)
 
-Shless, JS, **YS Crider**, HO Pitchik, AS Qazi, A Styczynski, R LeMesurier, D Haik, et al (2021). Physical Integrity of Medical Exam Gloves with Repeated Applications of Disinfecting Agents: Evidence for Extended Use. medRxiv. [preprint link](https://doi.org/10.1101/2021.05.31.21258129)
+Shless, J, **Y Crider**, H Pitchik, A Qazi, A Styczynski, R LeMesurier, D Haik, L Kwong, C LeBoa, A Bhattacharya, Y Hamidi, & R Phalen. Evaluation of the effects of repeated disinfection on medical exam gloves: Part 1. Changes in physical integrity. Journal of Occupational and Environmental Hygiene. [link](https://doi.org/10.1080/15459624.2021.2015072)
+
+Phalen, R, J Patterson, J Cuadros Olave, S Mansfield, J Shless, **Y Crider**, H Pitchik, A Qazi, A Styczynski, R LeMesurier, D Haik, L Kwong, C LeBoa, A Bhattacharya, & Y Hamidi. Evaluation of the effects of repeated disinfection on medical exam gloves: Part 2. Changes in mechanical properties. Journal of Occupational and Environmental Hygiene. [link](https://doi.org/10.1080/15459624.2021.2015073)
+
+Smith, DW, M Islam, KE Furst, S Mustaree, **YS Crider**, N Akter, SA Islam, S Sultana, ZH Mahmud, M Rahman, WA Mitch, J Davis (2021). Chlorine taste can increase simulated exposure to both fecal contamination and disinfection byproducts in water supplies. Water Research. [link](https://doi.org/10.1016/j.watres.2021.117806)
+
+Smith, DW, S Sultana, **YS Crider**, SA Islam, JM Swarthout, FGB Goddard, A Rabbani, SP Luby, AJ Pickering, & J Davis (2021). Effective Demand for In-Line Chlorination Bundled with Rental Housing in Dhaka, Bangladesh. Environmental Science & Technology. [link](https://doi.org/10.1021/acs.est.1c01308)
 
 Kwong, L, R Wilson, S Kumar, **Y Crider**, Y Reyes, D Rempel, A Pillarisetti (2021). Review of the Breathability and Filtration Efficiency of Common Household Materials for Face Masks. ACS Nano.
 
