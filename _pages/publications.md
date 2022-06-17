@@ -7,6 +7,13 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=yD_m398AAAAJ&hl=en). If you are unable to access any of my papers, please email me for a copy for personal use. I respond to requests on ResearchGate, but emailing me directly is much faster. 
 
+## 2022
+Lindmark, M., Cherukumilli, K., **Crider, Y. S.**, Marcenac, P., Lozier, M., Voth-Gaeddert, L., Lantagne, D. S., Mihelcic, J. R., Zhang, Q. M., Just, C., & Pickering, A. J. (2022). Passive In-Line Chlorination for Drinking Water Disinfection: A Critical Review. Environmental Science & Technology. [link](https://doi.org/10.1021/acs.est.1c08580)
+
+Nadimpalli, M. L., Lanza, V. F., Montealegre, M. C., Sultana, S., Fuhrmeister, E. R., Worby, C. J., Teichmann, L., Caduff, L., Swarthout, J. M., **Crider, Y. S.**, Earl, A. M., Brown, J., Luby, S. P., Islam, M. A., Julian, T. R., & Pickering, A. J. (2022). Drinking water chlorination has minor effects on the intestinal flora and resistomes of Bangladeshi children. Nature Microbiology, 7(5), 620–629. [link](https://doi.org/10.1038/s41564-022-01101-3)
+
+**Crider, Y. S.**, & Ray, I. (2022). Water and Development: A Gender Perspective. In Oxford Research Encyclopedia of Environmental Science. [link](https://doi.org/10.1093/acrefore/9780199389414.013.685)
+
 ## 2021
 
 Shless, J, **Y Crider**, H Pitchik, A Qazi, A Styczynski, R LeMesurier, D Haik, L Kwong, C LeBoa, A Bhattacharya, Y Hamidi, & R Phalen. Evaluation of the effects of repeated disinfection on medical exam gloves: Part 1. Changes in physical integrity. Journal of Occupational and Environmental Hygiene. [link](https://doi.org/10.1080/15459624.2021.2015072)
