@@ -3,7 +3,7 @@ title: "Research"
 layout: archive
 permalink: /research/
 ---
-Broadly, my research focuses on practical strategies for improving health and well-being in low-resource settings. My current work focuses on passive chlorination and improving the household built environment, specifically floors.
+Broadly, my goals is to identify practical strategies for improving health and well-being in low-resource settings. My current work focuses on passive chlorination and improving the household built environment, specifically floors.
 
 ### 1. Increasing access to safely managed water with passive chlorination technologies
 Centralized drinking water treatment has historically resulted in enormous population health benefits, but this model has not been universally replicated, and over 2 billion people globally lack access to safe water. As an alternative to point-of-use water treatment, which requires individuals (typically women and girls) to manually treat drinking water for each household, passive, in-line chlorination technologies have the potential to automatically chlorinate and disinfect drinking water at various scales. My colleagues and I found that passive chlorination at primary (shared) drinking water points in urban Bangladesh [reduced the prevalence of child diarrhea by nearly a quarter](https://doi.org/10.1016/S2214-109X(19)30315-8), and that the [taste and odor](https://doi.org/10.1016/j.scitotenv.2017.09.135) of chlorine were not obstacles to implementation.
