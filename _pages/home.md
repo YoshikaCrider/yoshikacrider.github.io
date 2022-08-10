@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-**I’m an epidemiologist, environmental engineer, and Postdoctoral Fellow at Stanford University.**
+I’m an epidemiologist, environmental engineer, and Postdoctoral Fellow at Stanford University.
 
 I research strategies to improve health in low-resource settings by reducing environmental exposures to enteric pathogens. 
 
