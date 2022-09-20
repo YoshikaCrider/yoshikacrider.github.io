@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## 2022
 
-**Crider, YS**, S Sainju, R Shrestha, G Clair-Caliot, A Schertenleib, BM Kunwar, M Bhatta, SJ Marks, I Ray. An evaluation of system-level, passive chlorination in gravity-fed piped water systems in rural Nepal. (Accepted at Environmental Science & Technology)
+**Crider, YS**, S Sainju, R Shrestha, G Clair-Caliot, A Schertenleib, BM Kunwar, M Bhatta, SJ Marks, I Ray. (2022). An evaluation of system-level, passive chlorination in gravity-fed piped water systems in rural Nepal. Environmental Science & Technology. [link](https://pubs.acs.org/doi/10.1021/acs.est.2c03133)
 
 Lindmark, M., Cherukumilli, K., **Crider, Y. S.**, Marcenac, P., Lozier, M., Voth-Gaeddert, L., Lantagne, D. S., Mihelcic, J. R., Zhang, Q. M., Just, C., & Pickering, A. J. (2022). Passive In-Line Chlorination for Drinking Water Disinfection: A Critical Review. Environmental Science & Technology. [link](https://doi.org/10.1021/acs.est.1c08580)
 
