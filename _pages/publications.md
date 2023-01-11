@@ -7,6 +7,10 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=yD_m398AAAAJ&hl=en). If you are unable to access any of my papers, please email me for a copy for personal use. I respond to requests on ResearchGate, but emailing me directly is much faster. 
 
+## 2023
+
+**Crider, YS**, M Tsuchiya, M Mukundwa, I Ray, AJ Pickering. (2023). Adoption of point-of-use chlorination for household drinking water treatment: a systematic review. Environmental Health Perspectives. (in press)
+
 ## 2022
 
 **Crider, YS**, S Sainju, R Shrestha, G Clair-Caliot, A Schertenleib, BM Kunwar, M Bhatta, SJ Marks, I Ray. (2022). An evaluation of system-level, passive chlorination in gravity-fed piped water systems in rural Nepal. Environmental Science & Technology. [link](https://pubs.acs.org/doi/10.1021/acs.est.2c03133)
